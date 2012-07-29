@@ -1,0 +1,19 @@
+AIRQUALITY PLUGIN IN DEUTSCH
+
+
+Sag "Luft" oder "tausch 7 Euro in Dollar" und Siri sagt Dir wie die Luftqualität ist.
+
+
+Clone airquality in Dein plugins Ordner.
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        https://github.com/sullenlook/airquality.git
+
+
+Füge folgendes in plugins.conf:
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        airquality
+
+
+FERTIG
